@@ -1,6 +1,6 @@
-#Сборка Webpack
+# Сборка Webpack
 
-###.prettierrc.json
+### .prettierrc.json
 trailingComma - Добавлять запятые, где они нужны
 printWidth - Длина строки
 useTabs - Отступы с помощью табуляции вместо пробелов
